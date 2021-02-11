@@ -1,0 +1,50 @@
+{
+  "donuts": [
+    {
+      "id": 0,
+      "title": "Pączek berliński",
+      "image": "https://pl.carolchanning.net/images/eda-i-napitki/berlinskie-ponchiki-recept-i-sekret-ih-pishnosti.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Pączek amerykański",
+      "alternativeName": "donuty",
+      "image": "https://www.miastokobiet.pl/wp-content/uploads/2012/02/tlusty-czwartek.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Pączek angielski",
+      "alternativeName": "oponki",
+      "image": "https://polki.pl/foto/4_3_LARGE/oponki-z-serem-tradycyjny-i-sprawdzony-przepis-2446783.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Pączek wiedeński/hiszpański",
+      "alternativeName": "gniazdka",
+      "image": "https://www.piekarniaklos.pl/photos/ins-p-pl/paczek-angielski-192-b3d055b4.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pączek polski",
+      "image": "https://leclerc.pl/wp-content/uploads/2020/02/skad-sie-wziely-paczki-i-dlaczego-kroluj%C4%85-w-tlusty-czwartek-1050x600.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Pączek izraelski",
+      "alternativeName": "sufganijot",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fslodkoslodka.pl%2F2019%2F02%2Fizraelskie-paczki-z-piekarnika%2F&psig=AOvVaw1w25S1F_5Xk_CmRDu8qjRB&ust=1613152064949000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjOsPex4u4CFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 6,
+      "title": "Pączek holenderski",
+      "alternativeName": "oliebollen",
+      "image": "https://cdn27.beszamel.smcloud.net/t/user_photos/13840/oliebollen-paczki-holenderskie-doskonaly-przepi.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Pączek turecki",
+      "alternativeName": "lokma",
+      "image": "http://apps.reimaginesoft.com/bus/storage/images/10519/img-9758-jpg"
+    }
+  ]
+}
